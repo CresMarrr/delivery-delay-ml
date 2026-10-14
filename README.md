@@ -1,6 +1,6 @@
 # Delivery Delay ML
 
-Late-delivery prediction models for CresMart: Python, PyTorch, FastAPI, Docker.
+Late-delivery prediction models for CresMarr: Python, PyTorch, FastAPI, Docker.
 
 **Owner:** Head of Data / Data Scientist, Edwin Sunday UMANA  **Reviewer:** Precious Mojolaoluwa OJO
 **Dataset:** Olist Brazilian E-Commerce, https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
